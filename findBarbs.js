@@ -556,7 +556,7 @@ $.getScript(
                         <td class="ra-tac">
                             <a href="/game.php?screen=place&target=${
                                 barb[0]
-                            }&spy=1" target="_blank" rel="noopener noreferrer" class="btn btn-send-attack">
+                            }&spy=1&light=1" target="_blank" rel="noopener noreferrer" class="btn btn-send-attack">
                                 ${twSDK.tt('Attack')}
                             </a>
                         </td>
